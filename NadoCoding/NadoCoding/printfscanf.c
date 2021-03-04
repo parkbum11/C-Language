@@ -23,7 +23,7 @@ int main(void)
 
 	// scanf
 	// 키보드 입력을 받아서 저장
-	/*int input;
+	int input;
 	printf("값을 입력하세요 : ");
 	scanf_s("%d", &input);
 	printf("입력값은 : %d\n", input);
@@ -31,7 +31,7 @@ int main(void)
 	int one, two, three;
 	printf("3개의 정수를 입력하세요 : ");
 	scanf_s("%d %d %d", &one, &two, &three);
-	printf("%d %d %d\n", one, two, three);*/
+	printf("%d %d %d\n", one, two, three);
 
 	/*char c = 'A';
 	printf("%c\n", c);*/
